@@ -1,13 +1,13 @@
 {
   "name": "gh-package-nuxt-module",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "My new Nuxt module",
   "license": "MIT",
   "type": "module",
   "moduleResolution": "node",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Nuxt-Packages/gh-package-nuxt-module.git"
+    "url": "ssh://git@github.com/Nuxt-Packages/gh-package-nuxt-module.git"
   },
   "exports": {
     ".": {
