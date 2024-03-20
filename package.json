@@ -47,7 +47,7 @@
     "vitest": "^1.4.0"
   },
   "publishConfig": {
-    "@Nuxt-Packages:registry": "https://npm.pkg.github.com"
+    "@Compro-Rishabh:registry": "https://npm.pkg.github.com"
   },
   "bugs": {
     "url": "https://github.com/Nuxt-Packages/gh-package-nuxt-module/issues"
