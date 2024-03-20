@@ -1,10 +1,10 @@
 {
   "name": "gh-package-nuxt-module",
-  "version": "1.0.6",
+  "version": "1.0.9",
   "description": "My new Nuxt module",
   "license": "MIT",
   "type": "module",
-  "moduleResolution" :"node",
+  "moduleResolution": "node",
   "repository": {
     "type": "git",
     "url": "git@github.com:Nuxt-Packages/gh-package-nuxt-module.git"
@@ -46,10 +46,7 @@
     "nuxt": "^3.11.1",
     "vitest": "^1.4.0"
   },
-  
-"publishConfig": {
-  "@Nuxt-Packages:registry": "https://npm.pkg.github.com"
-}
-
-
+  "publishConfig": {
+    "@Nuxt-Packages:registry": "https://npm.pkg.github.com"
+  }
 }
