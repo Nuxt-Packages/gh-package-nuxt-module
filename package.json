@@ -1,6 +1,6 @@
 {
   "name": "gh-package-nuxt-module",
-  "version": "1.0.10",
+  "version": "1.0.0",
   "description": "My new Nuxt module",
   "license": "MIT",
   "type": "module",
@@ -47,7 +47,7 @@
     "vitest": "^1.4.0"
   },
   "publishConfig": {
-    "@Compro-Rishabh:registry": "https://npm.pkg.github.com"
+    "@compro-rishabh:registry": "https://npm.pkg.github.com"
   },
   "bugs": {
     "url": "https://github.com/Nuxt-Packages/gh-package-nuxt-module/issues"
